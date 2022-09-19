@@ -2,7 +2,7 @@
 
 
 
-<img src="https://www.rdstation.com/wp-content/uploads/2017/05/logo_grupo_impacta_azul-01.png" alt="Logo impacta">
+<img src="https://www.abrat.com.br/siteabrat1/wp-content/uploads/2016/05/faculdade-impacta-azul-1280.png" alt="Logo impacta">
 
 <BR>
 <BR>
